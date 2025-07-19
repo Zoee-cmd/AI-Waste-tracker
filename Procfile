@@ -1,0 +1,1 @@
+web: gunicorn ecosort.wsgi --log-file - 
